@@ -21,12 +21,14 @@ Strong
        
 
 Knowledgeable
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
  
 
 ETC
+
 <img src="https://img.shields.io/badge/Notion-3766AB?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-3766AB?style=flat-square&logo=Slack&logoColor=white"/></a>
     
