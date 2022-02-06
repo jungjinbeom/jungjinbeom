@@ -31,7 +31,7 @@ Communication & Collaboration
 
 <img src="https://img.shields.io/badge/Notion-3766AB?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Slack-3766AB?style=flat-square&logo=Slack&logoColor=white"/></a>
-<img src=https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white"/></a>
     
 
 Studying
