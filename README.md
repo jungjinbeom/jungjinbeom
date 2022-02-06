@@ -11,7 +11,7 @@ header Typing SVG
 
 Strong
 
-<img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JavaScript-3766AB?style=flat-square&logo=JavaScript&logoColor=Yellow"/></a>
 <img src="https://img.shields.io/badge/HTML-3766AB?style=flat-square&logo=HTML&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-3766AB?style=flat-square&logo=CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>
