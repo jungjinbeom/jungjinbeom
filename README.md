@@ -1,5 +1,4 @@
 
-header Typing SVG
 
 😊 Introduce Myself
 
@@ -7,7 +6,7 @@ header Typing SVG
 
 😄 What I want : experience and learn a lot.
 
-⌨ Teck Stacks
+⛏️ Skills
 
 Frontend
 
