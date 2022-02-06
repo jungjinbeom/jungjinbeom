@@ -6,7 +6,7 @@ header Typing SVG
 😄 What I want : experience and learn a lot.
 ⌨ Teck Stacks
 Strong
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
        
 
 Knowledgeable
