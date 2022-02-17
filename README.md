@@ -34,4 +34,7 @@ Communication & Collaboration
 
 
 Studying
+- WebPack
+- Babel
+- TypeScript
 
