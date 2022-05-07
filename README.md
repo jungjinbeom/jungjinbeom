@@ -28,4 +28,5 @@ Studying
 - WebPack
 - Babel
 - TypeScript
+- Recoil
 
