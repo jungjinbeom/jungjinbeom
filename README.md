@@ -29,4 +29,5 @@ Studying
 - Babel
 - TypeScript
 - Recoil
+- Next.js
 
