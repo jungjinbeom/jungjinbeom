@@ -28,8 +28,7 @@ Communication & Collaboration
  
 
 Studying
-- WebPack
-- Babel
+- React-Query
 - TypeScript
 - Recoil
 - Next.js
