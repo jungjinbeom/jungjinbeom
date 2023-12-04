@@ -32,4 +32,5 @@ Communication & Collaboration
 - Next.js
 - Jest
 - TDD
+- Zustand
 
