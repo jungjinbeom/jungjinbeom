@@ -25,7 +25,7 @@
  
  <img src="https://camo.githubusercontent.com/646e85706132375a77008e1742e6c8185d563c19ee1394baa075dc338390bec6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4432343933393f7374796c653d666c6174266c6f676f3d4a656e6b696e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jenkins-D24939?style=flat&amp;logo=Jenkins&amp;logoColor=white" >
  
-Communication & Collaboration
+### Communication & Collaboration
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Redmine-B32024?style=flat&logo=Redmine&logoColor=white"/></a>
  
